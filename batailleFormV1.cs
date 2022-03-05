@@ -38,8 +38,8 @@ namespace Bataille_Winform
         private void btn_credits_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Jeu de la bataille réalisé par : " +
-                "\n\n- Simon Delmotte" +
-                "\n- Benjamin Gourlez");
+                "\n\n- Simon D" +
+                "\n- Benjamin G");
         }
 
         private void btn_Exit_Click(object sender, EventArgs e)
